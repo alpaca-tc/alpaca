@@ -1,6 +1,0 @@
-belongs_to
-truncate()
-prams[]
-truncate( description, :length => 25, :omission => '...')
-partial
-collection
